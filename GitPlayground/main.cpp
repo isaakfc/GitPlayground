@@ -9,7 +9,7 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "Hello, World!\n";
+    std::cout << "The WORLD IS ENDING!\n";
     std::cout << "IM ON FIRE!!!!!" << std::endl;
     return 0;
 }
