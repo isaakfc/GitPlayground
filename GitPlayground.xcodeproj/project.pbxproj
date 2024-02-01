@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6A38239F2B6BF0EF00EE1D5D /* Gun Feature.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6A38239E2B6BF0EF00EE1D5D /* Gun Feature.cpp */; };
 		6AA1E8EE2AF94BF40082375E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6AA1E8ED2AF94BF40082375E /* main.cpp */; };
 		6AA1E8F52AF953EF0082375E /* NewFeature.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6AA1E8F42AF953EF0082375E /* NewFeature.cpp */; };
 		6AA1E8F72AF957620082375E /* LaserFeature.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6AA1E8F62AF957620082375E /* LaserFeature.cpp */; };
@@ -25,6 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6A38239E2B6BF0EF00EE1D5D /* Gun Feature.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Gun Feature.cpp"; sourceTree = "<group>"; };
 		6AA1E8EA2AF94BF40082375E /* GitPlayground */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GitPlayground; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AA1E8ED2AF94BF40082375E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		6AA1E8F42AF953EF0082375E /* NewFeature.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = NewFeature.cpp; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 			children = (
 				6AA1E8ED2AF94BF40082375E /* main.cpp */,
 				6AA1E8F62AF957620082375E /* LaserFeature.cpp */,
+				6A38239E2B6BF0EF00EE1D5D /* Gun Feature.cpp */,
 				6AA1E8F42AF953EF0082375E /* NewFeature.cpp */,
 			);
 			path = GitPlayground;
@@ -127,6 +130,7 @@
 			files = (
 				6AA1E8F72AF957620082375E /* LaserFeature.cpp in Sources */,
 				6AA1E8EE2AF94BF40082375E /* main.cpp in Sources */,
+				6A38239F2B6BF0EF00EE1D5D /* Gun Feature.cpp in Sources */,
 				6AA1E8F52AF953EF0082375E /* NewFeature.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
